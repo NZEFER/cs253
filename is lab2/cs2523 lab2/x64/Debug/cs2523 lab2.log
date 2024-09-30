@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\user\source\repos\cs2523 lab2\cs2523 lab2\main.cpp(56,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\user\source\repos\cs2523 lab2\cs2523 lab2\main.cpp(122,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  cs2523 lab2.vcxproj -> C:\Users\user\source\repos\cs2523 lab2\x64\Debug\cs2523 lab2.exe
